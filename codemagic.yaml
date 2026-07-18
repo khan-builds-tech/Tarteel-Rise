@@ -9,7 +9,6 @@ workflows:
         - keystore_credentials # Optional: Configure your signing credentials in Codemagic environment variables
       vars:
         PACKAGE_NAME: "com.example"
-      android_sdk: true
       java: 17
     triggering:
       events:
