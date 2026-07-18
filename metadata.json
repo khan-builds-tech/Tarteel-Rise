@@ -1,0 +1,6 @@
+{
+  "name": "Tarteel Rise",
+  "description": "A beautiful morning Quranic recitation alarm where you must recite a target Ayah with at least 80% accuracy to dismiss the alarm, building a daily morning streak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
